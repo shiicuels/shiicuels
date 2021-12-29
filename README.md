@@ -1,10 +1,4 @@
-Hi! to someone reading this right now, 👀 I'm @shiicuels :sparkles: studying Bachelor of Science in Information Systems - my interest in technnologies and business management led me to enroll from that course :see_no_evil:
-
-:bulb: I've built some web-apps using ASP.Net & Laravel and mobile apps using Android Studio & Xamarin :iphone:
-
-The programming langauages I am familiar with are C#, Java, Arduino-
-
-🌱 I’m currently learning Python and would want to learn more through collaboration (📫)!
+Hi I am Shie and welcome to my humble space. Enjoy your coding!
 
 
 <!---
